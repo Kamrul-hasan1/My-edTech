@@ -1,5 +1,16 @@
-.hero-text{
+/* .hero-text{
     position: absolute;
     top: 40%;
-}
+} */
+.course-overview{
+    margin-right: 60px;
 
+}
+.overview-text{
+    margin-right: 30px;
+    
+}
+.course-text{
+    text-align:left ;
+    padding: 70px ;
+}
